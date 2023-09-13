@@ -1,0 +1,19 @@
+.image-with-text {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .image {
+    width: 70px; 
+    height: 70px; 
+    overflow: hidden;
+    margin-right: 15px;
+  }
+  
+  .text {
+    flex: 1;
+  }
+  
+  ion-label{
+    text-align: center;
+}
